@@ -1,5 +1,5 @@
-# WGAN-GP 기반 항공 시뮬레이터의 시각적 품질 향상을 위한 원격 감지 이미지 색상 보정 연구  
-# Research on Color Correction of Remote Sensing Images for Visual Quality Enhancement of an Aviation Simulator Based on WGAN-GP
+# [WGAN-GP](https://arxiv.org/pdf/1704.00028) 기반 항공 시뮬레이터의 시각적 품질 향상을 위한 원격 감지 이미지 색상 보정 연구  
+# Study on Color Correction of Remote Sensing Images for Visual Quality Enhancement of an Aviation Simulator Based on [WGAN-GP](https://arxiv.org/pdf/1704.00028)
 
 이 프로젝트는 위성 이미지 데이터를 처리하고 분석하는 과정을 포함한 파이프라인을 제공합니다.  
 This project provides a pipeline that includes processing and analyzing satellite image data.
