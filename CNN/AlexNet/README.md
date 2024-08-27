@@ -1,8 +1,8 @@
 # AlexNet 구현 및 학습  
 # AlexNet Implementation and Training
 
-이 프로젝트는 AlexNet을 구현하고 학습시키는 과정을 포함합니다.  
-This project includes the implementation and training process of AlexNet.
+이 프로젝트는 [AlexNet](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf)을 구현하고 학습시키는 과정을 포함합니다.  
+This project includes the implementation and training process of [AlexNet](https://proceedings.neurips.cc/paper_files/paper/2012/file/c399862d3b9d6b76c8436e924a68c45b-Paper.pdf).
 
 AlexNet은 ImageNet 데이터셋을 사용하여 이미지 분류 작업을 수행하는 딥러닝 모델입니다.  
 AlexNet is a deep learning model that performs image classification tasks using the ImageNet dataset.
