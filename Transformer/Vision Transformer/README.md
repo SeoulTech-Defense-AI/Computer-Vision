@@ -1,4 +1,4 @@
-# [Vision Transformer (ViT)](https://arxiv.org/pdf/2010.11929) 구현 및 구현
+# [Vision Transformer (ViT)](https://arxiv.org/pdf/2010.11929) 구현 및 학습
 # [Vision Transformer (ViT)](https://arxiv.org/pdf/2010.11929) Implementation and Training
 이 프로젝트는 Vision Transformer (ViT)를 구현하고 학습시키는 과정을 포함합니다.  
 This project includes the implementation and training process of Vision Transformer (ViT).
