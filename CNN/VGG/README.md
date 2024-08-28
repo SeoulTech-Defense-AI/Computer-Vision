@@ -1,5 +1,5 @@
-# VGGNet 구현 및 학습
-# VGGNet Implementation and Training
+# [VGGNet](https://arxiv.org/pdf/1409.1556) 구현 및 학습
+# [VGGNet](https://arxiv.org/pdf/1409.1556) Implementation and Training
 
 이 프로젝트는 VGGNet을 구현하고 학습시키는 과정을 포함합니다.
 This project includes the implementation and training process of VGGNet.
