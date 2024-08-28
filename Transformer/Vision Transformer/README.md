@@ -9,8 +9,8 @@ ViT is a model that successfully applies the Transformer architecture to image c
 ## 프로젝트 구성  
 ## Project Structure
 
-- **Vision Transformer_ImageNet-100(MHA).ipynb**: 이 Jupyter Notebook 파일은 ViT의 전체 구현 및 학습 과정을 포함하고 있습니다.  
-- **Vision Transformer_ImageNet-100(MHA).ipynb**: This Jupyter Notebook file contains the complete implementation and training process of ViT.
+- **Vision Transformer.ipynb**: 이 Jupyter Notebook 파일은 ViT의 전체 구현 및 학습 과정을 포함하고 있습니다.  
+- **Vision Transformer.ipynb**: This Jupyter Notebook file contains the complete implementation and training process of ViT.
 
   데이터 전처리, 모델 구성, 학습 및 평가 과정을 단계별로 설명합니다.  
   It explains the steps of data preprocessing, model configuration, training, and evaluation.
@@ -30,7 +30,7 @@ ViT is a model that successfully applies the Transformer architecture to image c
 ## 파일 설명  
 ## File Descriptions
 
-### 1. Vision Transformer_ImageNet-100(MHA).ipynb
+### 1. Vision Transformer.ipynb
 
 - **데이터 전처리**: ImageNet-100 데이터셋을 전처리하여 학습에 적합한 형태로 변환합니다.  
 - **Data Preprocessing**: Preprocess the ImageNet-100 dataset and transform it into a format suitable for training.
@@ -84,11 +84,11 @@ ViT is a model that successfully applies the Transformer architecture to image c
 2. **데이터 준비**: ImageNet-100 데이터셋을 준비하여 적절한 디렉토리에 저장합니다.  
 2. **Prepare Data**: Prepare the ImageNet-100 dataset and store it in the appropriate directory.
 
-   `Vision Transformer_ImageNet-100(MHA).ipynb` 파일 내에서 데이터 경로를 지정하여 사용합니다.  
-   Specify the data path within the `Vision Transformer_ImageNet-100(MHA).ipynb` file.
+   `Vision Transformer.ipynb` 파일 내에서 데이터 경로를 지정하여 사용합니다.  
+   Specify the data path within the `Vision Transformer.ipynb` file.
 
-3. **모델 학습**: `Vision Transformer_ImageNet-100(MHA).ipynb`를 실행하여 모델을 학습시킵니다.  
-3. **Model Training**: Run `Vision Transformer_ImageNet-100(MHA).ipynb` to train the model.
+3. **모델 학습**: `Vision Transformer.ipynb`를 실행하여 모델을 학습시킵니다.  
+3. **Model Training**: Run `Vision Transformer.ipynb` to train the model.
 
    학습 중간에 모델이 자동으로 저장되며, EarlyStopping을 사용하여 과적합을 방지합니다.  
    The model is automatically saved during training, and EarlyStopping is used to prevent overfitting.
